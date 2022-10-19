@@ -16,7 +16,7 @@
 
 ### How do I get invited to the org?
 
-- Navigate to the [issues tab](https://github.com/CeruleanCodersComm/community/issues)
+- Navigate to the [issues tab](https://github.com/InnateComm/community/issues)
   <details>
 
   <summary>👇 Screenshot</summary>
@@ -61,7 +61,7 @@
 
   </details>
 
-- Navigate to the [org page](https://github.com/CeruleanCodersComm)
+- Navigate to the [org page](https://github.com/InnateComm)
 
 - Click on the banner and you'll reach this page
   <details>
@@ -76,7 +76,7 @@
 
 ### How do I set the Organization to Public?
 
-- Navigate to our [community page](https://github.com/CeruleanCodersComm)
+- Navigate to our [community page](https://github.com/InnateComm)
 - Click on the highlighted area:
   <details>
 
@@ -144,4 +144,4 @@
 
 Thanks a lot for spending your time in helping our community grow. Thanks a lot! Keep rocking 🍻
 
-[![Contributors](https://contrib.rocks/image?repo=CeruleanCodersComm/community)](https://github.com/CeruleanCodersComm/community/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=InnateComm/community)](https://github.com/InnateComm/community/graphs/contributors)
